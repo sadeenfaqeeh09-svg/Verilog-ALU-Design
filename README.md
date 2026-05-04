@@ -78,16 +78,16 @@ Use a Verilog simulator such as:
 
 ## Project Structure
 Verilog-ALU-Design/
-── add.v
-── sub.v
-── bitwiseAnd.v
-── bitwiseOr.v
-── fullAdderOB.v
-── behavioralALU.v
-── dataflowALU.v
-── Verilog_HDL_project.pdf
-── hdlProjectReport_Faqeeh_Sadeen_1222177.pdf
-── README.md
+* ── add.v
+* ── sub.v
+* ── bitwiseAnd.v
+* ── bitwiseOr.v
+* ── fullAdderOB.v
+* ── behavioralALU.v
+* ── dataflowALU.v
+* ── Verilog_HDL_project.pdf
+* ── hdlProjectReport_Faqeeh_Sadeen_1222177.pdf
+* ── README.md
 
 ---
 
