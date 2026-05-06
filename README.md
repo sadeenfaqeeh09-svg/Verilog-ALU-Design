@@ -1,5 +1,10 @@
 # 🧠 Verilog ALU Design
 
+---
+## Digital Systems
+
+---
+
 ## Description
 This project implements an Arithmetic Logic Unit (ALU) using Verilog HDL.
 
